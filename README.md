@@ -2,6 +2,8 @@
 
 You'll use logs to help you troubleshoot and track down an issue. As an IT Support Specialist, it's crucial that you know how to troubleshoot and "follow the cookie crumbs."
 
-The scenario
-Your computer is having some issues and you can't seem to figure out what's wrong. Argh! Dig through the logs to figure out how to fix these issues.
-You'll use logs to identify issues on a Windows VM.
+* Updating software that's out-of-date
+* Finding and deleting files
+* Modifying file permissions
+* Finding and terminating specific processes
+
